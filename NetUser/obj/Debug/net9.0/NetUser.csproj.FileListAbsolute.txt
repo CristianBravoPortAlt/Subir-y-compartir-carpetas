@@ -1,0 +1,14 @@
+C:\Users\crist\Documents\Neovel\NetUser\bin\Debug\net9.0\NetUser.exe
+C:\Users\crist\Documents\Neovel\NetUser\bin\Debug\net9.0\NetUser.deps.json
+C:\Users\crist\Documents\Neovel\NetUser\bin\Debug\net9.0\NetUser.runtimeconfig.json
+C:\Users\crist\Documents\Neovel\NetUser\bin\Debug\net9.0\NetUser.dll
+C:\Users\crist\Documents\Neovel\NetUser\bin\Debug\net9.0\NetUser.pdb
+C:\Users\crist\Documents\Neovel\NetUser\obj\Debug\net9.0\NetUser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crist\Documents\Neovel\NetUser\obj\Debug\net9.0\NetUser.AssemblyInfoInputs.cache
+C:\Users\crist\Documents\Neovel\NetUser\obj\Debug\net9.0\NetUser.AssemblyInfo.cs
+C:\Users\crist\Documents\Neovel\NetUser\obj\Debug\net9.0\NetUser.csproj.CoreCompileInputs.cache
+C:\Users\crist\Documents\Neovel\NetUser\obj\Debug\net9.0\NetUser.dll
+C:\Users\crist\Documents\Neovel\NetUser\obj\Debug\net9.0\refint\NetUser.dll
+C:\Users\crist\Documents\Neovel\NetUser\obj\Debug\net9.0\NetUser.pdb
+C:\Users\crist\Documents\Neovel\NetUser\obj\Debug\net9.0\NetUser.genruntimeconfig.cache
+C:\Users\crist\Documents\Neovel\NetUser\obj\Debug\net9.0\ref\NetUser.dll
